@@ -1,1 +1,30 @@
 /* YeyeYeee código aquí */
+form{
+  padding: 3.5%;
+  text-align: center;
+  background-color: #2E2E2E;
+  color:#FE9A2E ;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 40px;
+}
+input{
+  size: 15px;
+  padding: 13px;
+  border: 0ch;
+  margin: 0%;
+}
+h6{
+  color: azure;
+  size: 12px;
+}
+h5{
+  color: azure;
+  size: 12px;
+}
+button{
+  padding: 25px;
+  border: 3ch;
+  margin: -3%;
+  letter-spacing: 4px;
+  background-color: #FE9A2E;
+}
